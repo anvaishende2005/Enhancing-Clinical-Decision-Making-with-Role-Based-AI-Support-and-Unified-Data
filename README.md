@@ -1,0 +1,2 @@
+# Enhancing-Clinical-Decision-Making-with-Role-Based-AI-Support-and-Unified-Data
+The project is a web-based healthcare platform that uses AI to analyze user symptoms and predict possible medical conditions. It suggests preliminary medicines and recommends suitable specialists. Doctors verify AI reports, ensuring accurate diagnosis and improving decision-making, reducing delays and confusion in healthcare.
